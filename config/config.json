@@ -24,7 +24,8 @@
         "app_context": "",
         "links_blank_page": true,
         "database": {
-            "type": "embedded"
+            "type": "mongodb",
+            "connection_string": "mongodb://appharbor_6d95hjmb:73r1q5du8osr8h5iu1l23jcn52@ds127783.mlab.com:27783/appharbor_6d95hjmb"
         },
         "allow_voting": true,
         "google_analytics": "",
